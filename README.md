@@ -34,7 +34,7 @@ To ensure the scripts execute correctly, organize your local project root folder
 
 ## Notebook Breakdown & Analysis Steps1. 
 
-1. **Monthly Rainfall Compositing and Climatology: **
+1. **Monthly Rainfall Compositing and Climatology:**
 
 File: `Scripts/monthly_rainfallCompositing_plot-Gem.ipynb`
 Purpose: Ingests multi-temporal gridded spatial rasters covering the 1981–2021 temporal domain. Aggregates values into long-term monthly arrays, masks values using administrative vector files.
