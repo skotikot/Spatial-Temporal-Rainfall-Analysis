@@ -19,7 +19,7 @@ To ensure the scripts execute correctly, organize your local project root folder
 │   ├── Raw/
 │   │   ├── national_boundary/                               # Spatial shapefiles (.shp) for Kenya administrative boundaries
 │   │   └── county_boundary/                                 # Spatial shapefiles for Narok County and specific sub-regions
-│   │   └── chirpsKenya_monthlySums_1981_2021_AgZnExtent2    # NetCDF file containing calculated long-term 40-year monthly precipitation means
+│   │   └── chirpsKenya_monthlySums_1981_2021_AgZnExtent2.nc # NetCDF file containing calculated long-term 40-year monthly precipitation means
 │   │   └── nino34raw_2.csv                                  # Nino 3.4 time series indices
 │   │   └── IODtimeseries_.csv                               # Indian Ocean Dipole Mode (IOD) time series indices
 │   │
