@@ -12,8 +12,8 @@ To ensure the scripts execute correctly, organize your local project root folder
 ```tree
 .
 ├── Scripts/
-│   ├── monthly_rainfallCompositing_plot-Gem.ipynb  # National grid aggregation, masking, and seasonal compositing pipeline
-│   └── waveletData_indiceCorr_Kenya_Narok_20May2026-tempPattern_git.ipynb # Wavelet transform, cross-wavelet power, and climate index coherence engine
+│   ├── monthly_rainfallCompositing.ipynb                   # National grid aggregation, masking, and seasonal compositing pipeline
+│   └── temporalRain_wavelet.ipynb                          # Wavelet transform, cross-wavelet power, and climate index coherence engine
 │
 ├── Data/
 │   ├── Raw/
